@@ -2,6 +2,10 @@
 
 I'm currently studying Computer Engineering at Univeristy of Palermo (UNIPA). I love hardware related stuffs, in particular **chip design** 💻 ❤️.
 
+### Contact me:
+
+  
+
 ---
 
 ### 📚 Currently self learning:
@@ -45,6 +49,6 @@ I'm currently studying Computer Engineering at Univeristy of Palermo (UNIPA). I 
   * Other CPU project
   * Chip layout design
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GabbedT&count_private=true&theme=tokyonight&showicons=true)]()
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
