@@ -5,7 +5,7 @@ I'm currently studying Computer Engineering at Univeristy of Palermo (UNIPA). I 
 
 ---
 
-### 📚 Currently self learning:
+### 📚 Currently self studying:
 
   * RISC-V ISA
   * Advanced Computer Architecture 
@@ -33,7 +33,7 @@ I'm currently studying Computer Engineering at Univeristy of Palermo (UNIPA). I 
 
 ---
   
-### ⚙️ Future project i'd like to do:
+### ⚙️ Future projects i'd like to do:
 
   * GPU on FPGA
   * Crypto Miner on FPGA
