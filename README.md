@@ -42,10 +42,6 @@ I'm currently studying Computer Engineering at Univeristy of Palermo (UNIPA). I 
 
 ---
 
-### 📊 Current stats:
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=GabbedT&count_private=true&theme=dark&showicons=true)]() 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GabbedT&langs_count=5&theme=dark)]()
 
 
 
