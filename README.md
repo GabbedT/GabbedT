@@ -21,6 +21,7 @@ I'm currently studying Computer Engineering at Univeristy of Palermo (UNIPA). I 
   * Basic Digital Design
   * C language
   * System Verilog HDL
+  * Java
 
 ---
 
@@ -41,7 +42,3 @@ I'm currently studying Computer Engineering at Univeristy of Palermo (UNIPA). I 
   * Chip layout design
 
 ---
-
-
-
-
