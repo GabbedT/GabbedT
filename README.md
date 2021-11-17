@@ -2,6 +2,9 @@
 
 I'm currently studying Computer Engineering at Univeristy of Palermo (UNIPA). I love hardware related stuffs, in particular anything related to **chip design** (FPGAs, ASICs ...).
 
+### 📧 How to reach me: 
+
+  * tripi.gabriele2002@gmail.com
 
 ---
 
