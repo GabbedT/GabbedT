@@ -13,16 +13,7 @@ I'm currently studying Computer Engineering at Univeristy of Palermo (UNIPA). I 
   * RISC-V ISA
   * Embedded Systems
   * Microcontroller programming
-  * Advanced Computer Architecture 
-  * FPGA design
-
----
-
-### 🎯 Future subjects to study:
-
-  * C++ language
-  * Pyton language
   * Verification
-  * Micro electronics
+  * C++ language
 
 ---
