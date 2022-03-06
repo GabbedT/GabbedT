@@ -12,8 +12,9 @@ I'm currently studying Computer Engineering at Univeristy of Palermo (UNIPA). I 
 
   * RISC-V ISA
   * Embedded Systems
+  * Microcontroller programming
   * Advanced Computer Architecture 
-  * FPGAs stuff
+  * FPGA design
 
 ---
 
