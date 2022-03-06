@@ -11,10 +11,9 @@ I'm currently studying Computer Engineering at Univeristy of Palermo (UNIPA). I 
 ### 📚 Currently self studying:
 
   * RISC-V ISA
+  * Embedded Systems
   * Advanced Computer Architecture 
-  * Advanced Digital Design 
   * FPGAs stuff
-
 
 ---
 
@@ -24,14 +23,5 @@ I'm currently studying Computer Engineering at Univeristy of Palermo (UNIPA). I 
   * Pyton language
   * Verification
   * Micro electronics
-  * Machine Learning
-
----
-  
-### ⚙️ Future projects i'd like to do:
-
-  * GPU on FPGA
-  * Other CPU project
-  * Chip layout design
 
 ---
